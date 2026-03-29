@@ -1,0 +1,11 @@
+venv/
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+logs/
+*.zip
+node_modules/
+=2.13.0
+package.json
+package-lock.json
